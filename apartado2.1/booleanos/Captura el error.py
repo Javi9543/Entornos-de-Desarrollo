@@ -7,4 +7,6 @@ while True:
         edad = f_act - f_nacim
 
         print (edad)
+        break
     except:
+        print("¡Vaya! ha introducido algo invalido intentelo de nuevo")
