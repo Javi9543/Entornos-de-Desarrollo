@@ -1,3 +1,3 @@
-nombre = input("Introduzca su nombre")
+nombre = input("Introduzca su nombre: ")
 
 print (f'Hola, {nombre}')
