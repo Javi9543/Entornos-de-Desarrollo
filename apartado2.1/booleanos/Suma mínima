@@ -1,6 +1,6 @@
-n1 =  input("Introduzca un numero para sumarlo: ")
+n1 = int(input("Introduzca un numero para sumarlo: "))
 
-n2 = input("Introduzca un segundo numero para sumarlo: ")
+n2 = int(input("Introduzca un segundo numero para sumarlo: "))
 
 suma = n1 + n2
 
