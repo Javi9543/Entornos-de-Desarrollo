@@ -1,1 +1,3 @@
 print(chr(0x1F415))
+print(chr(0x1F431))
+print(chr(0x1f981))
