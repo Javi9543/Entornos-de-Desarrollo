@@ -1,8 +1,12 @@
-nombre = input("Introduce su nombre")
-edad = int(input("Introduce tu edad"))
+try:
+    nombre = str(input("Introduce su nombre"))
+    edad = int(input("Introduce tu edad"))
 
-print (f'Hola, {nombre}, tienes {edad}, años')
+    print (f'Hola, {nombre}, tienes {edad}, años')
 
-decimal = 2.3456677
+    decimal = 2.3456677
 
-print (f'decimal = {decimal:6.3f}')
+    print (f'decimal = {decimal:6.3f}')
+    
+except:
+    print("Hubo un error en el programa, para el nombre solo escriba caracteres y para la edad solo escriba numeros enteros")
