@@ -4,5 +4,5 @@ try:
     f_nacim = int(input('Introduzca su año de nacimiento: '))
     edad = f_act - f_nacim
     print ("Tienes: ",edad)
-except:
+except ValueError:
     print ("Introduzca solo numeros")
