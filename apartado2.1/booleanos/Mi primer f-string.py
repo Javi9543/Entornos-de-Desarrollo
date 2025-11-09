@@ -8,5 +8,5 @@ try:
 
     print (f'decimal = {decimal:6.3f}')
     
-except:
+except ValueError:
     print("Hubo un error en el programa, para el nombre solo escriba caracteres y para la edad solo escriba numeros enteros")
