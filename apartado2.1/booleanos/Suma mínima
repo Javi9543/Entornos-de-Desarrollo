@@ -11,6 +11,5 @@ try:
 
     print (suma)
 
-except:
+except ValueError:
     print ('Introduzca solo numeros no caracteres o cualquier otro formato invalido')
-    
