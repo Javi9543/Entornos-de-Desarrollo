@@ -8,5 +8,5 @@ while True:
 
         print (edad)
         break
-    except:
+    except ValueError:
         print("¡Vaya! ha introducido algo invalido intentelo de nuevo")
