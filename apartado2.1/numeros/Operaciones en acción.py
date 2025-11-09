@@ -2,7 +2,7 @@
 try:
     n1 = int(input('Introduzca un numero: '))
     n2 = int(input('Introduzca el segundo numero: '))
-except:
+except ValueError:
     print ('Hubo un error al introducir uno de los dos numeros, recuerde que deben ser enteros')
     
 suma = n1 + n2
