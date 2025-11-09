@@ -4,6 +4,7 @@ try:
     n2 = int(input('Introduzca el segundo numero: '))
 except:
     print ('Hubo un error al introducir uno de los dos numeros, recuerde que deben ser enteros')
+    
 suma = n1 + n2
 resta = n1 - n2
 mult = n1 * n2
