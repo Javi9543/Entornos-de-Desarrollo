@@ -37,3 +37,10 @@
 | 18 | Ejercicio 18| `v1.0-dia-cad`|
 | 19 | Ejercicio 19| `v1.0-mes-cad`|
 | 20 | Ejercicio 20| `v1.0-paquete-zona`|
+
+### SSH
+
+| Nº | Archivos| TAG DE VERSION FINAL|
+|----|-----------|---------------------|
+| 1  | d. Imagenes | - |
+| 2  | C. SSH INSTANCIA AWS.MD | -  |
