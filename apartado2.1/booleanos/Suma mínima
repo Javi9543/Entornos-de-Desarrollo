@@ -1,0 +1,15 @@
+n1 = 0
+n2 = 0
+
+try:
+
+    n1 = int(input("Introduzca un numero para sumarlo: "))
+
+    n2 = int(input("Introduzca un segundo numero para sumarlo: "))
+
+    suma = n1 + n2
+
+    print (suma)
+
+except ValueError:
+    print ('Introduzca solo numeros no caracteres o cualquier otro formato invalido')
