@@ -10,7 +10,6 @@ print (" ")
 
 while intento != p_secreta:
     intento = input("Introduce tu palabra: ").lower() #lo pongo en punto lower por si al usuario se el escapa alguna mayuscula
-
     pista = ""
 
     for i in range(len(intento)):
