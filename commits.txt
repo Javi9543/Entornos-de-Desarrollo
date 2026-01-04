@@ -1,0 +1,755 @@
+commit 8aa51fed09350987f25a1d4637bd0c4458a42119
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Sat Jan 3 16:45:15 2026 +0100
+
+    Ejercicio 40, adivinar anagrama
+
+commit e89196f7627d8288dce33385e2b97ad14592a210
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Sat Jan 3 16:33:15 2026 +0100
+
+    Ejercicio 39, Programa juego adivinar un numero aleatorio
+
+commit b9bf224c33b5956e0025204d6cfc0d2779436b54
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Sat Jan 3 16:31:28 2026 +0100
+
+    Ejercicio 39, Programa juego adivinar un numero aleatorio
+
+commit fee190d2636fbc4de0efced9da0dcaf1ea552718
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Sat Jan 3 16:18:37 2026 +0100
+
+    Ejercicio38, ejercicio  que hace la media del numero de palabras de un archivo
+
+commit 65b5aee27965b2f9666b628ab614675c9172f1ad
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Sat Jan 3 15:58:05 2026 +0100
+
+    Ejercicio 37, Enumerar las lineas de un archivo
+
+commit 7de97e79b9665524c90bb44605726124a9a6fd95
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Sat Jan 3 14:53:37 2026 +0100
+
+    Comprobar si una palabra es palíndroma desde un archivo
+
+commit edf20bdcc16ab17950428e3c1c289959fd17f374
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Sat Jan 3 14:51:48 2026 +0100
+
+    Cambios ortograficos varios
+
+commit 0e636b228cd72f33639ea2a43172b71b96edaa45
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Sat Jan 3 14:40:51 2026 +0100
+
+    Ejercicio32, Comprobar palabras palindromas en un archivo
+
+commit cc4f16d657699601a840ae3a77c92a9837c358c6
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Sat Jan 3 14:24:57 2026 +0100
+
+    Ejercicio Lenguaje Aviación
+
+commit b32156d74b7aeb722fe59a7acad3452241aa3e0f
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Fri Jan 2 16:45:40 2026 +0100
+
+    Ejercicio 33, semordilap word
+
+commit 3baad0aaf53484dfb2b82eec6dc6d4737c280f9e
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Fri Jan 2 16:19:48 2026 +0100
+
+    Ejercicio 31, map, filter y reduce manuales
+
+commit 889d857b9f0a161786870ecf99c11be52332367d
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Fri Jan 2 15:45:23 2026 +0100
+
+    Ejercicio 30, traducir una frase al sueco
+
+commit 85269762c7b9cff75b2b52ba95673262504f578b
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Fri Jan 2 15:30:29 2026 +0100
+
+    Ejercicio 29, mostrar palabras mayores a limite minimo
+
+commit 0420e6242667f15576cf9327a001a3d4753dfb78
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Fri Jan 2 14:14:41 2026 +0100
+
+    Ejercicio 28, Longitud más larga de un elemento de una lista
+
+commit e0258955a788966d35601df6ad3e2aede2abe59a
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Fri Jan 2 14:08:05 2026 +0100
+
+    Ejercicio 27, delvolver las longitudes de caracteres de cada elemento de una lista
+
+commit cb3ebb5b7d4614e001a6dfd8a04aacc3f7bb218e
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Fri Jan 2 13:47:48 2026 +0100
+
+    Ej26 Delvolver el numero más largo de una lista
+
+commit 203e3756b1db41c7263d77e8b2038191475b8066
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Fri Jan 2 13:18:51 2026 +0100
+
+    Ejercicio 25, convertir verbo a 'Past Participle'
+
+commit 32acc61f9c5b4acc8fe03d64ec734add12bb9759
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Fri Jan 2 13:16:49 2026 +0100
+
+    Ejercicio 24, comporbar verbos
+
+commit a706eb64ee0332cb7cb484e88a4184c0af9af790
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Jan 1 18:57:55 2026 +0100
+
+    Ejercicio24, Programa comrpobar verbos
+
+commit 82a8fad7eb50fb4c8e6cb8d81ca4aebf0845f655
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Jan 1 18:29:36 2026 +0100
+
+    Ejercicio 13, Coregir frases con espacios dobles o puntos y seguidos sin espacios
+
+commit 08cf46f556d1fc92596501d4124b766db4557bed
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Wed Dec 31 14:50:19 2025 +0100
+
+    elimino archivo creado erroneamente
+
+commit 1b554f76cca68f10e55c053d225fd0817c9bb102
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Wed Dec 31 14:48:31 2025 +0100
+
+    Ejercicio22, Cifrado ROT-13
+
+commit ef2bc29ca98062d739c221864eebbbaad4980af6
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Wed Dec 31 14:28:15 2025 +0100
+
+    Ejercicio 21, Frecuencia de caracteres en una cadena
+
+commit 71973aa4139390ca7be49611d5ab1aa44cf0fb42
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Wed Dec 31 14:18:49 2025 +0100
+
+    Traducir listas, ejercicio20
+
+commit 9d0c5e09108fda76ae29b4686a04ed233c754935
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Wed Dec 31 13:58:51 2025 +0100
+
+    Ej19, Cancion Canadiense
+
+commit b2e92d3e95f34419cb3d0e6e20c5e407ad6a907c
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Wed Dec 31 13:47:20 2025 +0100
+
+    Ejercicio 18, programa para saber si una palabra es un pangrama
+
+commit 79c9aa34381395a9fc8dbbe5575ecfe6e91b2c51
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Wed Dec 31 13:15:22 2025 +0100
+
+    Ejercicio 17, añado posibilidad de saber si una frase es palindroma
+
+commit 115910ac9ac5e8af57879f294d19b06b6b40ecb2
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Wed Dec 31 12:51:08 2025 +0100
+
+    Archivos innecesarios eliminados
+
+commit 595874d985a67b50194a271179adfc91b2d3f572
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Mon Dec 29 15:43:24 2025 +0100
+
+    Ejercicio 16 Mostrar palabras filtradas
+
+commit b05a21979056f5722a6826a75fd0e357c952d026
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Mon Dec 29 15:43:10 2025 +0100
+
+    Ejercicio 16 Mostrar palabras filtradas
+
+commit 5660546450e066d9d465cb8d50dc579c9ba03741
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Mon Dec 29 15:41:05 2025 +0100
+
+    Ejercicio 16 Mostrar palabras filtradas
+
+commit 57e97c6b86135bd15282cd5b45626a312a10716f
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Mon Dec 29 15:15:40 2025 +0100
+
+    Ejercicio 15 - Palabra más larga
+
+commit da00168de2c02c885702a7f1b79ecac3f919b50b
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Mon Dec 29 15:13:13 2025 +0100
+
+    Ejercicio_15-Palabra-larga
+
+commit ddf9f3bc88e380e25488de8753a01eeb412894fa
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Mon Dec 29 14:22:51 2025 +0100
+
+    Ejercicio 14, calculo long, palabras
+
+commit fc9d9e6b30a13e0d5b59c8b93709d55bd4cf7584
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Mon Dec 29 14:07:40 2025 +0100
+
+    Ejercicio 13, calcular numero mayor de una lista
+
+commit 948a03f23fce7279be79c8ecca05ac52d3f95b46
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Mon Dec 29 13:38:53 2025 +0100
+
+    Ejercicio 12, dibujar histograma
+
+commit 2f7c95f7b4f53dd57575d0aea8ffdaa226f1f7cd
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Mon Dec 29 13:13:50 2025 +0100
+
+    Ejercicio11, Duplicar un caracter o palabra, mediante un numero
+
+commit fba6c5f331d164743df042ab85a3c2e1f03987df
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Mon Dec 29 12:58:30 2025 +0100
+
+    Captura 9 y 10 para el guión
+
+commit 399dc93d456d0eaeb264fa6fa3210f900351384b
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Mon Dec 29 12:57:48 2025 +0100
+
+    Corrijo errores gramaticales varios
+
+commit ebbaade823198d8e7aa2906e40d47b2dacbf636f
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Mon Dec 29 12:49:34 2025 +0100
+
+    Ejercicio 10, comprobar que un elemento pertenezca a ambas listas
+
+commit 79a265b7aa29cba5e0e9b8fbc56a5e892e88a228
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Mon Dec 29 12:44:23 2025 +0100
+
+    Ejercicio 10, Comprobar si un elemento esta en ambas listas
+
+commit c0c572d5f375d42e42ba3ca475c67d63520f2f9b
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Sat Dec 27 13:40:52 2025 +0100
+
+    Ejercicio para comprobar los elementos de una lista
+
+commit aa2059026ff7455965858166c7ff8928400e85ac
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Sat Dec 27 13:32:44 2025 +0100
+
+    Intento de ejercicio 5, el cual no funciona del todo bien
+
+commit 006ff5536b93a07c71755ea115b2b40c94d06d11
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 14:45:08 2025 +0100
+
+    Ejercicios realizados dia 25/12/2025
+
+commit b3079209d16871455823618d530d8151b1be722b
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 14:44:34 2025 +0100
+
+    Correccion de fallos
+
+commit 5c42d398e237b1e29fbdd4a6da2bcca0ab199f65
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 14:43:41 2025 +0100
+
+    Añado estas imagenes al readme, y algunos cambios en el ejercicio8
+
+commit a86d1593842c66c9cd62d49d1a41dadd3967ea75
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 14:34:53 2025 +0100
+
+    Comprobar si la palabra es palíndroma o no
+
+commit 485ce627859d1b45e4abfc4f1d8ae678209af4b2
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 14:31:37 2025 +0100
+
+    Comprobar si una palabra es o no palíndroma
+
+commit 6ae142656a5e9010c04ec1a6c6efdf0258b63882
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 14:08:38 2025 +0100
+
+    añado el directorio .vscode
+
+commit 85eebcd50a3b47721ee47f3e1769203c9b904313
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 14:01:17 2025 +0100
+
+    Invertir una cadena introducida por el usuario
+
+commit 029b1853e46e93ce8bb97043be7bcd03af6f79fb
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 13:54:00 2025 +0100
+
+    quito espacios innecesarios
+
+commit ef9c35eb3538d3452ed207b86fc4fc6a7c96fbae
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 13:53:35 2025 +0100
+
+    quito espacios innecesarios
+
+commit 62aaa97ebc843f37ab21fec8fc630189afc83c03
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 13:46:27 2025 +0100
+
+    Suma y multiplicacion de numeros de una lista
+
+commit 78cf2635400b21d313251a096f07489d62d947d9
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 13:22:06 2025 +0100
+
+    correcciones gramaticales ejercicio3
+
+commit fc4582e77747a42b5dcb7b393bcf71c993d42520
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 13:13:40 2025 +0100
+
+    Ejercicio 4 comprobar si el caracter es o no es vocal
+
+commit be8b0218bad53bd4282917de20cadaa651ac3377
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 12:55:28 2025 +0100
+
+    Calcular longitud de una cadena
+
+commit c971afbf369d97e87ed1fad4ba4bee65860dd503
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 12:37:29 2025 +0100
+
+    Añado a la comprobacion de los numeros, estructura try-except
+
+commit 252d406b8b6c1c8e65606ac2f0a6273232eee3c3
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 12:35:01 2025 +0100
+
+    Comprobacion de numero mayor con 3 numeros
+
+commit 9605d03af00722724804ca48c77e750ca7c66418
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 12:07:34 2025 +0100
+
+    Añado a la comparación la estructura try - except para controlar errores
+
+commit ed19703b7571440b6a4a8b14406c0fde1c4af269
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Thu Dec 25 12:03:08 2025 +0100
+
+    Comparacion Numero mayor, programa funcional
+
+commit 2f88752cfbba7c2c263fc9a9c184897b35b4798b
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 20:37:06 2025 +0100
+
+    tags con la relacion3
+
+commit 8a5976847bb636ac115d14dfd25cfe93147175f6
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 20:36:36 2025 +0100
+
+    estructura funcional y excepciones
+
+commit 3298339a725bd89869c868b869905c76c431458e
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 20:11:13 2025 +0100
+
+    Estructura funcional y añadido de excepciones programa de dias de mes
+
+commit 6101b52a3790c3448b5f11f4311931e0adbf95b0
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 19:59:17 2025 +0100
+
+    Estructura funcional ejercicio dia de la semana a cadena
+
+commit f393b2f970b46c5a8904290c88064c27b35f2bc3
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 19:49:38 2025 +0100
+
+    Añado estructura excepciones al programa del dado
+
+commit 6e9a8efab2cb25fdb521e8a2b84b568066a9f26f
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 19:45:58 2025 +0100
+
+    Estructura funcional de ejercicio dado
+
+commit ebe119e5008d20aa2697ace8c84f4d2d0d401c41
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 19:20:15 2025 +0100
+
+    Añado sentencias de excepcion
+
+commit 854d3022d99108358a896dfa17df10642e22c2cc
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 19:08:27 2025 +0100
+
+    Estructura funcional calcular costo llamada
+
+commit 68072c7b396676bb44a98b383fcf13a067f65f2b
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 18:34:54 2025 +0100
+
+    Version funcional del programa
+
+commit 40de7ef9859e35f711eeec8914a21bb0e0d34df1
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 18:31:22 2025 +0100
+
+    Estructura funcional del programa
+
+commit 276b4ce643cb8798261e813bfae0564282136889
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 18:09:16 2025 +0100
+
+    Añado sentencias de excepciones
+
+commit 6f67d8eb6a4fde281216411352a49e395e367c93
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 18:06:54 2025 +0100
+
+    añado excepciones try except
+
+commit 7ce12a6ee3a475f984b905638b0b11d7ab2324ab
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 18:03:45 2025 +0100
+
+    añado excepciones try except
+
+commit 32cca0fb7791d9d59ee93bb5b8bbdbe7eee9490d
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 17:21:12 2025 +0100
+
+    Ejercicio Fecha estructura funcional
+
+commit 331c97d2d1b55212864de179fffa2cfef715f430
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 16:54:02 2025 +0100
+
+    Correccion Ejercicios
+
+commit 1f6d276edfe0fa5efdb179c753e183bb4c6bf245
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 16:49:58 2025 +0100
+
+    Añado ValueError
+
+commit d104d0db9547e1f26a41011b17e1198c4f8a1a05
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 16:48:56 2025 +0100
+
+    Añado Estructura de excepciones
+
+commit b1bc52dc481ee8a07aafd31b75a88103bee4098c
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 16:45:57 2025 +0100
+
+    Estrucutura Principal para calcular si un año es bisiesto
+
+commit f745a2176480e645ce4ad350619be7e0d9bbeca2
+Author: Javier Muñoz <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 16:34:02 2025 +0100
+
+    Añado try except y termino añado los if despues de los imputs con la estructura de excepcioens
+
+commit d327e7f141ba52ac018400e0746067bd9907561f
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Tue Nov 25 08:56:38 2025 +0100
+
+    Estructura funcional del programa
+
+commit 2a1b4ce32f5b9b5daee91f0c54c212ea37d7e702
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Mon Nov 24 21:45:43 2025 +0100
+
+    Creacion de estructura de ordenar numeros introducidos por teclado, e introduccion de excepciones
+
+commit 056069b98c8f415eee79335603947e9a9518f98d
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Mon Nov 24 21:16:24 2025 +0100
+
+    Verison Funcional ejercicio 7
+
+commit 847ac40210599eaf587b30bb22cc482cff892a2a
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Mon Nov 24 20:37:33 2025 +0100
+
+    Estructura funcional del programa
+
+commit ac5c3b5c01be3ae4cfae26189593d4832d78ddfa
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Mon Nov 24 20:20:12 2025 +0100
+
+    Estructura del programa y añado excepciones de errores
+
+commit 8aeb284444806ef930b0cc2cc4d0719fd834a682
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Mon Nov 24 20:08:07 2025 +0100
+
+    Estructura básica del programa
+
+commit 64ecb0b2684fb17b790702f06ce383cd70bc3005
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Mon Nov 24 19:57:51 2025 +0100
+
+    Añado excepciones
+
+commit bb1ebbac0c284702b026a484d24146bee27e868c
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Mon Nov 24 19:32:27 2025 +0100
+
+    Añado sentencias while True y break
+
+commit 54bc1fe4329b0b0400bf54c6a42436c96d1b9237
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Mon Nov 24 10:13:56 2025 +0100
+
+    Ejercicio2. Una vez he comprobado que funciona todo, añado un valueError por si el usuario mete algo diferente a un numero
+
+commit 4424c0e361331a5767828e076f64a4ccb901f2ca
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Mon Nov 24 10:09:09 2025 +0100
+
+    Ejercicio 2: Pido el numero y con if, elif, compruebo si es positivo, negativo o igual a 0
+
+commit 821fc489f098b8557237a990896ea8e54d613f17
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Mon Nov 24 10:02:19 2025 +0100
+
+    Añado valueError por si el usuario introduce algo diferente a numeros enteros
+
+commit 299135a04cb9b3b0331b3b44c75dfc67f90e5a34
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Mon Nov 24 09:56:20 2025 +0100
+
+    Creacion de programa, pido dos numeros y verifico si n1 es mayor que n2
+
+commit 16997f8a3787ec966bcd1279c2014fc25ebd6d81
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Mon Nov 24 09:38:55 2025 +0100
+
+    Termino el ejercicio 4
+
+commit 28ca8a1991a4fcaaef5cd14c104a9d664523878f
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sun Nov 9 12:17:16 2025 +0100
+
+    Añadido de Value error
+
+commit 85c2af33e87fc1f82cd1480cc044259f1474b694
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sun Nov 9 12:16:50 2025 +0100
+
+    añadido de ValueError
+
+commit 188b4c7f752b8c6393b9be6515b2333c67eb6c65
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sun Nov 9 12:16:07 2025 +0100
+
+    añadido de ValueError
+
+commit 30b9a6fc28ce8de6b83614d9cf866506c060a56b
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sun Nov 9 12:15:05 2025 +0100
+
+    Añadido de ValueError
+
+commit e4667060264d0a4a50e65911694a5df103181212
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sun Nov 9 12:14:08 2025 +0100
+
+    Añadido del valueError
+
+commit 4e0bc8e7a553ea27cb7513e4ccbbcfa8292a40b4
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sun Nov 9 12:13:29 2025 +0100
+
+    Añadido de Valuerror al except
+
+commit 7b3478b478df5e3bb19bf7c1d8ecff07a1289b98
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sun Nov 9 12:04:46 2025 +0100
+
+    introducción de try except, y añadido a dentro del try variables n1, n2
+
+commit 30b6104a3f3eff54b8f651d688991d0cb9c84f26
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sun Nov 9 12:02:51 2025 +0100
+
+    Introducción de try con variables, palabra y longituf dentro del try
+
+commit 1bd8573723e497a47d6b5ea2bb6c437cbe6fd39a
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sun Nov 9 12:00:21 2025 +0100
+
+    Añadido de variables, n1, n2, suma dentro del try
+
+commit 67e1dbce3f5661ed4f420924d4ea313a08f711e3
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sun Nov 9 11:57:07 2025 +0100
+
+    Añadido de try except, variable, palabra, longitud, dentro del try
+
+commit 87b6b1ccfe17191fbb18877f049400aac8d6a330
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sun Nov 9 11:48:19 2025 +0100
+
+    meto todas las variables y prints dentro del try
+
+commit d853e0193b694b16f53a1c29a88c9ea7ed583e78
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sun Nov 9 11:47:14 2025 +0100
+
+    Añado try except despues de variable f_act
+
+commit 9b289c6af996e30b689baf2076d7c9c28648986e
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 21:34:43 2025 +0200
+
+    Indice completo
+
+commit 2756ad4c68703a00de96d555f672365edfa59277
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 21:31:29 2025 +0200
+
+    Readme Indice
+
+commit 66f89f65f955459c99b947e9f35eab733442a770
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 21:28:34 2025 +0200
+
+    Fin Ejercicio
+
+commit c5f3a06aa640ca3aa9ca70fe15a08ef20984366b
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 21:25:12 2025 +0200
+
+    Inicio Programa
+
+commit 75733c6ac342287dbfc638348929eb333d2d033f
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 21:16:11 2025 +0200
+
+    Finalización del ejercicio con extension de decimales
+
+commit fd1c73034ad4f6ed7b275c887a78c4743d4d98b7
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 21:11:24 2025 +0200
+
+    primera parte del ejercicio
+
+commit c990d570a9c209197c1046fd5cb1ae4cd7e28866
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 20:56:23 2025 +0200
+
+    Ejercicio Finalizado
+
+commit 0433e67ade33c38f5d9ed327f6af9a00e1f68cbe
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 20:46:38 2025 +0200
+
+    Inicio de programa
+
+commit 9f3bf5c9021c95107b39223ba3d0d3595d9eb775
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 20:33:56 2025 +0200
+
+    Ejercicio finalizado
+
+commit 89a2a0d47ba4c04619c1e53b08b0f5793be79e4c
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 20:19:19 2025 +0200
+
+    Primera version
+
+commit 432d9a45a666a0c07df4711ae6331b2a354b41a3
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 19:46:13 2025 +0200
+
+    Programa finalizado
+
+commit f97912acc0b3ee0e909c76bea66515990d880f41
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 19:27:16 2025 +0200
+
+    Incio de programa
+
+commit c41fb5ba98b0eee891bfd63aaafa5fef1d801c88
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 18:39:48 2025 +0200
+
+    Ejercicio terminado  con los int input
+
+commit 100fddbffe90286927b03b5aaeecb532196d97ac
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 18:31:24 2025 +0200
+
+    Ejercicio iniciado sin los int input
+
+commit 80aef6694c118b4bfc296afa7d02571c2c98fcc2
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 17:22:28 2025 +0200
+
+    Programa terminado con cambios requeridos
+
+commit 9de489dda0f0c5a319b330be745c9e5636417518
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 17:16:44 2025 +0200
+
+    Inicio de modificacion programa edad con while true
+
+commit 3c5a8cb46f342e1a2a371cf4d6c3fd7c170961dd
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 17:01:26 2025 +0200
+
+    Ejercicio terminado
+
+commit a1efd43b48f60c0f1891c71531dfff8c322fb488
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 16:56:45 2025 +0200
+
+    Inicio del programa
+
+commit 9f63a58949ec129c662640023ec92f326cb73730
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 16:40:41 2025 +0200
+
+    Ejercicio terminado
+
+commit f63c578e7c9889ed3f8fdae65152be15e1359a26
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 16:37:16 2025 +0200
+
+    inicio de programa
+
+commit 4018376b9ad44c29262f1164628d6894b2fed835
+Author: Javier Muñoz Parra <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 12:47:41 2025 +0200
+
+    Creación del programa
+
+commit 1d4ab5b1281ceb6dd2243668f806da70763f5c33
+Author: Javi9543 <jmunpar1307@g.educaand.es>
+Date:   Sat Oct 25 12:22:27 2025 +0200
+
+    Initial commit
