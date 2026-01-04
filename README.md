@@ -38,8 +38,48 @@
 | 19 | Ejercicio 19| `v1.0-mes-cad`|
 | 20 | Ejercicio 20| `v1.0-paquete-zona`|
 
-### RelacionNavidad
+### Ejercicios Relacion de Navidad Python
 
 | Nº | EJERCICIO | TAG DE VERSION FINAL|
 |----|-----------|----------------|
-| 1  |Ejercicio 1| 
+|1|Ejercicio 1|`v1.0-Comprobacion-de-2-numeros` |
+|2|Ejercicio 2|`v1.0-Comprobacion-de-3-numeros` |
+|3|Ejercicio 3|`v1.0-long-palabra`|
+|4|Ejercicio 4|`v.1.0-comprobar-vocales`|
+|5|Ejercicio 5|`v1.0-Traductor-lenguaje-ladron`|
+|6|Ejercicio 6|`v1.0-Operaciones`|
+|7|Ejercicio 7|`v1.0-invertir-cadena`|
+|8|Ejercicio 8|`v1.0-Palabra-Palíndroma`|
+|9|Ejercicio 9|`v1.0-Pertenece-a-lista`|
+|10|Ejercicio 10|`v1.0-Comprob-listas`|
+|10|Ejercicio 11|`v1.0-Duplicar-caracteres`|
+|10|Ejercicio 12|`v1.0-histograma`|
+|10|Ejercicio 13|`v1.0-Num-Mayor-Lista`|
+|10|Ejercicio 14|`v1.0-Long-Caract-Lista`|
+|10|Ejercicio 15|`v1.0-Elem-Largo-Lista`|
+|10|Ejercicio 16|`v1.0-Long-Minima-car`|
+|10|Ejercicio 17|`v1.0-Ej17-Frase-o-palabra-palindroma`|
+|10|Ejercicio 18|`v1.0-Ej18-F-Pangrama`|
+|20|Ejercicio 19|`v1.0-Ej19-Canc-Canad`|
+|10|Ejercicio 20|`v1.0-Trad-a-sueco`|
+|10|Ejercicio 21|`v1.0-ej21-Frec-Caract`|
+|10|Ejercicio 22|`v.1.0-Ej22-Cifr-ROT-13`|
+|10|Ejercicio 23|`v1.0-Ej23-Correccion-frases`|
+|10|Ejercicio 24|`v.1.0-Comp-verbos`|
+|10|Ejercicio 25|`v1.0-Ej25-Converison-Verbos`|
+|10|Ejercicio 26|`v1.0-Num-Mayor-Lista`|
+|10|Ejercicio 27|`v1.0-Funciones-Manuales`|
+|10|Ejercicio 28|`v1.0-Palabra-larga`|
+|30|Ejercicio 29|`v1.0-Elem-Largo-Lista`|
+|10|Ejercicio 30|`v1.0-Trad-a-sueco`|
+|10|Ejercicio 10|``|
+|10|Ejercicio 10|``|
+|10|Ejercicio 10|``|
+|10|Ejercicio 10|``|
+|10|Ejercicio 10|``|
+|10|Ejercicio 10|``|
+|10|Ejercicio 10|``|
+|10|Ejercicio 10|``|
+|10|Ejercicio 39|``|
+|10|Ejercicio 40|``|
+|10|Ejercicio 41|``|
