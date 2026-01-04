@@ -1,15 +1,14 @@
+v1.0-Duplicar-caracteres
 v.1.0-Comp-verbos
 v.1.0-Ej22-Cifr-ROT-13
 v.1.0-Filtro-Palabras
 v.1.0-calculo-circ
-v.1.0-comprobar-vocal
-v1.0
+v.1.0-comprobar-vocales
 v1.0-Acceso
 v1.0-Calcular-Longitud-Cadena
 v1.0-Calculo_pot
 v1.0-Caract_may
-v1.0-Caracteres-unicode
-v1.0-Comp-Elem-listas
+v1.0-Caracteres-em-listas
 v1.0-Comprob-listas
 v1.0-Comprobacion-de-2-numeros
 v1.0-Comprobacion-de-3-numeros
@@ -71,3 +70,8 @@ v1.0.0
 v1.1-Ejercicio32-Comp-Pal-Palind
 v1.1-Ĺong-cad
 v1.1Ejer-edadf
+v1.0-Ej3-Long-Palabra
+v1.0-invertir-cadena
+v1.0-Pertenece-a-lista
+v1.0-juego-anagrama
+Juego-adivinar-palabra
