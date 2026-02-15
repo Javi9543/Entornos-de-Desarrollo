@@ -8,14 +8,12 @@ def juego():
         
         print(p_secreta) 
         intento = input("Introduzca una palabra relacionada con coches: ").lower()
-        print(intento)
+        print (pistas(intento, p_secreta))
 
         if intento == p_secreta:
             print ("Enhorabuena has acertado la palabra correcta")
-            print (pistas(intento, p_secreta))
         else : 
             print ("Oh no, ha fallado intentelo de nuevo")
-            print (pistas(intento, p_secreta))
 
 def pistas(intento, p_secreta):
 
@@ -25,9 +23,11 @@ def pistas(intento, p_secreta):
         if i < len(p_secreta):
             if intento[i] == p_secreta[i]:
                 pista += "[" + intento[i] + "]" #Esto seria que la posicion es cocrrecta
-    
-    print ("Pista: " + pista)
+                
+            elif intento[i] in p_secreta:
+                pista += "{" + intento[i] + "}"
 
+    return pista
 
     
 if __name__ == "__main__":
