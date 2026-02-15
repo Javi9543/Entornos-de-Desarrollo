@@ -12,7 +12,23 @@ def juego():
 
         if intento == p_secreta:
             print ("Enhorabuena has acertado la palabra correcta")
+            print (pistas(intento, p_secreta))
         else : 
-            print ("Oh no, ha fallado intentelo de nuevo")   
+            print ("Oh no, ha fallado intentelo de nuevo")
+            print (pistas(intento, p_secreta))
 
-juego()
+def pistas(intento, p_secreta):
+
+    pista = ""
+
+    for i in range(len(intento)):
+        if i < len(p_secreta):
+            if intento[i] == p_secreta[i]:
+                pista += "[" + intento[i] + "]" #Esto seria que la posicion es cocrrecta
+    
+    print ("Pista: " + pista)
+
+
+    
+if __name__ == "__main__":
+    juego()
