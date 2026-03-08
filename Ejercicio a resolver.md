@@ -9,3 +9,11 @@ Investigando, he encontrado el programa UMLet, se trata de un programa que nos p
 
 ![ejercicio2](./imagenes/UMLET.png)
 
+A continuacion, en la imagen siguiente, podemos observar las herramientas de este programa que he usado, para recrear el diagrama que he hecho en el ejercicio 1 en Word, pero como he dicho antes ahora en UML
+
+
+![ejercicio2](./imagenes/UMLET2.png)
+
+como podemos ver en esta imagen asi es como me ha quedado mi diagrama UML en UMLet, la verdad que se ve más limpio, y en mi opinion con las herramientas que proporciona el programa es mucho más facil y rápido que hacerlo por ejemplo en un word como lo hice previamente.
+
+-- Realizado por Javier Muñoz Parra | 1º D.AW.
