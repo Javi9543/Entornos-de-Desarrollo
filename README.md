@@ -84,3 +84,9 @@
 
 ## Ejercicio a Resolver
 (Se encuentra justo debajo de .gitignore)
+
+## Diagramas Ejercicio Bibiblioteca
+Se trata de la carpeta que se llama "Biblioteca"
+
+## Codigo Biblioteca 
+Se trata de la carpeta que tiene el nombre de "CodigoEjercicioBiblioteca"
