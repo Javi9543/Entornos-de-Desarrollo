@@ -11,9 +11,9 @@ public class Bibliotecario {
     }
 
     //metodos de la clase
-    public void crearPrestamo(Cliente cliente, Libro libro){
-        new Presta
-        System.out.println( "Prestamo registrado por: " + this.nomBibliotecario);
+    public void crearPrestamo(Cliente cliente, Libro libro, String fini, String fFin){
+        new Prestamo(cliente, libro, fini, fFin);
+        System.out.println("Prestamo realizado, desde " + fini + " hasta " + fFin);
     }
 
     public void registrarDevolucion(Libro libro){

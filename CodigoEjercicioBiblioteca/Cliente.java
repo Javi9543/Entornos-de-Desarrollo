@@ -11,9 +11,9 @@ public class Cliente {
 
     //metodos de la clase
 
-    public void solicitarLibro(Libro nombLibro, Bibliotecario bibliotecario){
+    public void solicitarLibro(Libro nombLibro, Bibliotecario bibliotecario, String fini, String ffin){
         if (nombLibro.getEstado().equals("Disponible")) {
-            bibliotecario.crearPrestamo(this, nombLibro);  //pongo this, para que el programa sepa QUIEN, esta solicitando el prestamo del libro
+            bibliotecario.crearPrestamo(this, nombLibro, fini, ffin);  //pongo this, para que el programa sepa QUIEN, esta solicitando el prestamo del libro
             System.out.println("Prestamo aceptado, disfrute de su libro");
            
         } else {
