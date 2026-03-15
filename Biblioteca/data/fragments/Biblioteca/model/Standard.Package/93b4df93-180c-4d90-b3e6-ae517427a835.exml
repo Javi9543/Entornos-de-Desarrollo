@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="biblioteca" version="4">
+  <OBJECT>
+    <ID name="biblioteca" mc="Standard.Package" uid="93b4df93-180c-4d90-b3e6-ae517427a835"/>
+    <PID name="Biblioteca" mc="Standard.Project" uid="1030782f-b3d1-4aed-a87f-9d29e6b2f5aa"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[biblioteca]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Activity" mc="Standard.Activity" uid="858fa4bc-94c3-458b-bd26-290cc2b84002"/>
+        <COMPID name="Diagrama de estado de biblioteca" mc="Standard.StateMachine" uid="bc70059b-cdef-4a9f-b7c9-ad2466a4e0da"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario" mc="Standard.Actor" uid="73d2e803-7dad-4e21-9be5-ccdb8f95e9c7"/>
+        <COMPID name="Bibliotecario" mc="Standard.Actor" uid="efe625d6-dca5-4579-bb77-dad0f18d3d95"/>
+        <COMPID name="buscar libro" mc="Standard.UseCase" uid="ffa62638-90db-4d35-a5f5-825d324b4230"/>
+        <COMPID name="solicitar libro" mc="Standard.UseCase" uid="7716599e-46eb-4da4-b871-df760e3bfd51"/>
+        <COMPID name="registrar devolucion del libro" mc="Standard.UseCase" uid="f4498765-a8b8-40b6-a716-cbfe2bbfd70f"/>
+        <COMPID name="sist. actualiza libro a disponible" mc="Standard.UseCase" uid="507ee7e7-38d2-4e09-903a-4fd698f7e58d"/>
+        <COMPID name="Cliente" mc="Standard.Class" uid="debd8f45-b0a0-4f5b-9aa2-0d6f39ebd8a0"/>
+        <COMPID name="Libro" mc="Standard.Class" uid="ca667902-d1b5-4c01-b74a-298450cdcd9e"/>
+        <COMPID name="Prestamo" mc="Standard.Class" uid="3a190c6a-1c67-4369-ba42-801ef794e1f6"/>
+        <COMPID name="Bibliotecario" mc="Standard.Class" uid="eeeb3612-8a2c-4cd3-ad3c-ec9074d49edc"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Diagrama de uso Biblioteca" mc="Standard.UseCaseDiagram" uid="8f8b722c-8903-4e27-ae8d-e89b41067d5b"/>
+        <COMPID name="Diagrama de clases Biblioteca" mc="Standard.ClassDiagram" uid="767975d4-59e2-4b3c-ba4a-c9603ad88aac"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
