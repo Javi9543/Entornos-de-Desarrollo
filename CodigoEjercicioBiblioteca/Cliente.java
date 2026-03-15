@@ -9,15 +9,16 @@ public class Cliente {
         this.nombre = nom;
     }
 
-
     //metodos de la clase
 
-    public void solicitarLibro(Libro nombLibro, String dni){
-        if () {
-            
+    public void solicitarLibro(Libro nombLibro, Bibliotecario bibliotecario){
+        if (nombLibro.getEstado().equals("Disponible")) {
+            bibliotecario.crearPrestamo(this, nombLibro); //pongo this, para que el programa sepa QUIEN, esta solicitando el prestamo del libro
+        } else {
+            System.out.println("El libro" + nombLibro + ", No esta disponible, intente solicitar otro libro");
         }
-
     }
+
     public String getNombre() {
         return nombre;
     }
