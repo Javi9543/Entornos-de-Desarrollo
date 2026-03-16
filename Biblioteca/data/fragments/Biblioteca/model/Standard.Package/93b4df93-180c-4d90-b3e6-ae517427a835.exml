@@ -18,7 +18,6 @@
         <COMPID name="Diagrama de estado de biblioteca" mc="Standard.StateMachine" uid="bc70059b-cdef-4a9f-b7c9-ad2466a4e0da"/>
       </COMP>
       <COMP relation="OwnedElement">
-        <COMPID name="Usuario" mc="Standard.Actor" uid="73d2e803-7dad-4e21-9be5-ccdb8f95e9c7"/>
         <COMPID name="Bibliotecario" mc="Standard.Actor" uid="efe625d6-dca5-4579-bb77-dad0f18d3d95"/>
         <COMPID name="buscar libro" mc="Standard.UseCase" uid="ffa62638-90db-4d35-a5f5-825d324b4230"/>
         <COMPID name="solicitar libro" mc="Standard.UseCase" uid="7716599e-46eb-4da4-b871-df760e3bfd51"/>
@@ -27,7 +26,9 @@
         <COMPID name="Cliente" mc="Standard.Class" uid="debd8f45-b0a0-4f5b-9aa2-0d6f39ebd8a0"/>
         <COMPID name="Libro" mc="Standard.Class" uid="ca667902-d1b5-4c01-b74a-298450cdcd9e"/>
         <COMPID name="Prestamo" mc="Standard.Class" uid="3a190c6a-1c67-4369-ba42-801ef794e1f6"/>
-        <COMPID name="Bibliotecario" mc="Standard.Class" uid="eeeb3612-8a2c-4cd3-ad3c-ec9074d49edc"/>
+        <COMPID name="Comprobar existencia" mc="Standard.UseCase" uid="04b0ae80-d2a9-453a-b398-95030612fd2d"/>
+        <COMPID name="Enviar mensaje de que no existe el libro" mc="Standard.UseCase" uid="87586ce9-95ff-4ed3-8f9c-2556609e8c6f"/>
+        <COMPID name="RegistrarPrestamo" mc="Standard.UseCase" uid="0b85eb2e-4dd7-46bf-91f2-879d59e21d21"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Diagrama de uso Biblioteca" mc="Standard.UseCaseDiagram" uid="8f8b722c-8903-4e27-ae8d-e89b41067d5b"/>
