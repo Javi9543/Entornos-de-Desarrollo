@@ -9,6 +9,7 @@ public class PruebaLibreria {
         System.out.println("Estado del libro: " + libro.getEstado());
 
         System.out.println(" ");
+
         System.out.println("=== Devolver Libro ===");
         bibliotecario.registrarDevolucion(libro);
         System.out.println("Estado del libro: " + libro.getEstado());
