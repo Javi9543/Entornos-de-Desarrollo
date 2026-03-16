@@ -1,4 +1,4 @@
-# INDICE DE Relacion de EJERCICIOS PYTHON
+# INDICE DEL REPOSITORIO ENTORNOS-DE-DESARROLLO
 
 ### Apartado 2.1
 | Nº | EJERCICIO | TAG DE VERSION FINAL|
@@ -87,6 +87,7 @@
 
 ## Diagramas Ejercicio Bibiblioteca
 Se trata de la carpeta que se llama "Biblioteca"
+(EN LA CARPETA IMAGENES, LOS DIAGRAMAS)
 
 ## Codigo Biblioteca 
 Se trata de la carpeta que tiene el nombre de "CodigoEjercicioBiblioteca"
