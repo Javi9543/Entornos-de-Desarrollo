@@ -1,4 +1,4 @@
-# INDICE DE Relacion de EJERCICIOS PYTHON
+# INDICE DEL REPOSITORIO ENTORNOS-DE-DESARROLLO
 
 ### Apartado 2.1
 | Nº | EJERCICIO | TAG DE VERSION FINAL|
@@ -52,32 +52,42 @@
 |8|Ejercicio 8|`v1.0-Palabra-Palíndroma`|
 |9|Ejercicio 9|`v1.0-Pertenece-a-lista`|
 |10|Ejercicio 10|`v1.0-Comprob-listas`|
-|10|Ejercicio 11|`v1.0-Duplicar-caracteres`|
-|10|Ejercicio 12|`v1.0-histograma`|
-|10|Ejercicio 13|`v1.0-Num-Mayor-Lista`|
-|10|Ejercicio 14|`v1.0-Long-Caract-Lista`|
-|10|Ejercicio 15|`v1.0-Elem-Largo-Lista`|
-|10|Ejercicio 16|`v1.0-Long-Minima-car`|
-|10|Ejercicio 17|`v1.0-Ej17-Frase-o-palabra-palindroma`|
-|10|Ejercicio 18|`v1.0-Ej18-F-Pangrama`|
-|20|Ejercicio 19|`v1.0-Ej19-Canc-Canad`|
-|10|Ejercicio 20|`v1.0-Trad-a-sueco`|
-|10|Ejercicio 21|`v1.0-ej21-Frec-Caract`|
-|10|Ejercicio 22|`v.1.0-Ej22-Cifr-ROT-13`|
-|10|Ejercicio 23|`v1.0-Ej23-Correccion-frases`|
-|10|Ejercicio 24|`v.1.0-Comp-verbos`|
-|10|Ejercicio 25|`v1.0-Ej25-Converison-Verbos`|
-|10|Ejercicio 26|`v1.0-Num-Mayor-Lista`|
-|10|Ejercicio 27|`v1.0-Funciones-Manuales`|
-|10|Ejercicio 28|`v1.0-Palabra-larga`|
-|30|Ejercicio 29|`v1.0-Elem-Largo-Lista`|
-|10|Ejercicio 30|`v1.0-Trad-a-sueco`|
-|10|Ejercicio 31|`v.1.0-Filtro-Palabras`|
-|10|Ejercicio 32|`v1.1-Ejercicio32-Comp-Pal-Palind`|
-|10|Ejercicio 33|`v1.0-Ej33-Semmordnilapword`|
-|10|Ejercicio 35|`v1.0-Leng-Aviacion`|
-|10|Ejercicio 37|`v1.0-numEnterosOrd`|
-|10|Ejercicio 38|`v1.0-med-num-archivo`|
-|10|Ejercicio 39|`v1.0-juego-adivinar-numero`|
-|10|Ejercicio 40|`v1.0-juego-anagrama`|
-|10|Ejercicio 41|`v1.0-juego-anagrama`|
+|11|Ejercicio 11|`v1.0-Duplicar-caracteres`|
+|12|Ejercicio 12|`v1.0-histograma`|
+|13|Ejercicio 13|`v1.0-Num-Mayor-Lista`|
+|14|Ejercicio 14|`v1.0-Long-Caract-Lista`|
+|15|Ejercicio 15|`v1.0-Elem-Largo-Lista`|
+|16|Ejercicio 16|`v1.0-Long-Minima-car`|
+|17|Ejercicio 17|`v1.0-Ej17-Frase-o-palabra-palindroma`|
+|18|Ejercicio 18|`v1.0-Ej18-F-Pangrama`|
+|19|Ejercicio 19|`v1.0-Ej19-Canc-Canad`|
+|20|Ejercicio 20|`v1.0-Trad-a-sueco`|
+|21|Ejercicio 21|`v1.0-ej21-Frec-Caract`|
+|22|Ejercicio 22|`v.1.0-Ej22-Cifr-ROT-13`|
+|23|Ejercicio 23|`v1.0-Ej23-Correccion-frases`|
+|24|Ejercicio 24|`v.1.0-Comp-verbos`|
+|25|Ejercicio 25|`v1.0-Ej25-Converison-Verbos`|
+|26|Ejercicio 26|`v1.0-Num-Mayor-Lista`|
+|27|Ejercicio 27|`v1.0-Funciones-Manuales`|
+|28|Ejercicio 28|`v1.0-Palabra-larga`|
+|29|Ejercicio 29|`v1.0-Elem-Largo-Lista`|
+|30|Ejercicio 30|`v1.0-Trad-a-sueco`|
+|31|Ejercicio 31|`v.1.0-Filtro-Palabras`|
+|32|Ejercicio 32|`v1.1-Ejercicio32-Comp-Pal-Palind`|
+|33|Ejercicio 33|`v1.0-Ej33-Semmordnilapword`|
+|34|Ejercicio 35|`v1.0-Leng-Aviacion`|
+|37|Ejercicio 37|`v1.0-numEnterosOrd`|
+|38|Ejercicio 38|`v1.0-med-num-archivo`|
+|39|Ejercicio 39|`v1.0-juego-adivinar-numero`|
+|40|Ejercicio 40|`v1.0-juego-anagrama`|
+|41|Ejercicio 41|`v1.0-juego-anagrama`|
+
+## Ejercicio a Resolver
+(Se encuentra justo debajo de .gitignore)
+
+## Diagramas Ejercicio Bibiblioteca
+Se trata de la carpeta que se llama "Biblioteca"
+(EN LA CARPETA IMAGENES, LOS DIAGRAMAS)
+
+## Codigo Biblioteca 
+Se trata de la carpeta que tiene el nombre de "CodigoEjercicioBiblioteca"

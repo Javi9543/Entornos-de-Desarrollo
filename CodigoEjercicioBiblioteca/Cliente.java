@@ -1,24 +1,16 @@
 public class Cliente {
-    //Atributos
+    //Atributos de la clase
     private String nombre;
     private String dni;
+    private Libro libro;
 
-    //metodo constructor
-    public Cliente(String nom, String dni){
+    public Cliente(String nomb, String dni){
+        this.nombre = nomb;
         this.dni = dni;
-        this.nombre = nom;
     }
 
-    //metodos de la clase
-
-    public void solicitarLibro(Libro nombLibro, Bibliotecario bibliotecario, String fini, String ffin){
-        if (nombLibro.getEstado().equals("Disponible")) {
-            bibliotecario.crearPrestamo(this, nombLibro, fini, ffin);  //pongo this, para que el programa sepa QUIEN, esta solicitando el prestamo del libro
-            System.out.println("Prestamo aceptado, disfrute de su libro");
-           
-        } else {
-            System.out.println("El libro" + nombLibro + ", No esta disponible, intente solicitar otro libro");
-        }
+    public void solicitarLibro(Libro libro){
+        System.out.println("El cliente " + nombre + "Pide el libro" + libro.getNombreLibro());
     }
 
     public String getNombre() {
@@ -37,6 +29,4 @@ public class Cliente {
         this.dni = dni;
     }
 
-    
-    
 }

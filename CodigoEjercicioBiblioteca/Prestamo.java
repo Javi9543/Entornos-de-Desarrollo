@@ -1,29 +1,49 @@
 public class Prestamo {
-    //Atributos de la clase
-    private String fechaInicioPrestamo;
+    private String iniPrestamo;
+    private String finPrestamo;
     private Libro libro;
     private Cliente cliente;
-    private String fechaFinPrestamo;
 
-    //metodo constructor
-    public Prestamo(Cliente cliente, Libro libro, String fechaInicioPrestamo, String fechaFinPrestamo){
+    public Prestamo(Cliente cliente, String iniPrest, String finPrestamo){
         this.cliente = cliente;
+        this.iniPrestamo = iniPrest;
+        this.finPrestamo = finPrestamo;
+    }
+
+    public void crearPrestamo(Libro libro){
         this.libro = libro;
-        this.fechaInicioPrestamo = fechaInicioPrestamo;
-        this.fechaFinPrestamo = fechaInicioPrestamo;
-        libro.actualizarEstado("Prestado");
+        if ("Disponible".equals(libro.getEstado())) {
+            libro.setEstado("Prestado");
+            System.out.println("Tienes para devolverlo desde: " + iniPrestamo + " hasta " + finPrestamo);
+        } else if ("Prestado".equals(libro.getEstado())) {
+            System.out.println( cliente.getNombre() + ", El libro solicitado, está prestado o no esta en la biblioteca");
+        }
     }
 
-    public String getFechaInicioPrestamo() {
-        return fechaInicioPrestamo;
+    public void registrarDevolucion(String nombre, String fechadev){
+        if (nombre.equals(libro.getNombreLibro())) {
+            libro.setEstado("Disponible");
+            this.finPrestamo = fechadev;
+            System.out.println(libro.getNombreLibro() + ", Libro devuelto por, " + cliente.getNombre());
+        } else {
+            System.out.println(cliente. getNombre() + ", El libro a devolver no es nuestro");
+        }
     }
 
-    public void setFechaInicioPrestamo(String fechaInicioPrestamo) {
-        this.fechaInicioPrestamo = fechaInicioPrestamo;
+    public String getIniPrestamo() {
+        return iniPrestamo;
     }
 
-    public void setFechaFinPrestamo(String fechaFinPrestamo) {
-        this.fechaFinPrestamo = fechaFinPrestamo;
+    public void setIniPrestamo(String iniPrestamo) {
+        this.iniPrestamo = iniPrestamo;
+    }
+
+    public String getFinPrestamo() {
+        return finPrestamo;
+    }
+
+    public void setFinPrestamo(String finPrestamo) {
+        this.finPrestamo = finPrestamo;
     }
 
     public Libro getLibro() {
@@ -43,5 +63,4 @@ public class Prestamo {
     }
 
     
-
 }
