@@ -194,7 +194,7 @@
         </OBJECT>
       </COMP>
       <COMP relation="Product">
-        <COMPID name="Activity Activity diagram" mc="Standard.ActivityDiagram" uid="ffa61dbd-4394-4a52-9c5c-89aa0ebab179"/>
+        <COMPID name="Diagrama de actividad Biblioteca" mc="Standard.ActivityDiagram" uid="ffa61dbd-4394-4a52-9c5c-89aa0ebab179"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
